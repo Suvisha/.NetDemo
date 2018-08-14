@@ -1,0 +1,5 @@
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\MockExample\MockExample\bin\Debug\MockExample.dll
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\MockExample\MockExample\bin\Debug\MockExample.pdb
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\MockExample\MockExample\obj\Debug\MockExample.csprojResolveAssemblyReference.cache
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\MockExample\MockExample\obj\Debug\MockExample.dll
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\MockExample\MockExample\obj\Debug\MockExample.pdb

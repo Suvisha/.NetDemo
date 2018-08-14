@@ -1,0 +1,33 @@
+﻿@model Movies.Movie
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h3>Details</h3>
+
+<div>
+    <h4>Movie</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.MovieName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MovieName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MovieDetails)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MovieDetails)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Close", "Index", "Movies", new { @class = "btn btn-warning" })
+</p>

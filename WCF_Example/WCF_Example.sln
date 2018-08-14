@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF_Example", "WCF_Example\WCF_Example.csproj", "{368618EE-99A9-4123-86A2-F97B8B3E6AED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathServiceTestApp", "MathServiceTestApp\MathServiceTestApp.csproj", "{B44441EB-4A6D-4148-AC85-1C101E8F0457}"
+	ProjectSection(ProjectDependencies) = postProject
+		{368618EE-99A9-4123-86A2-F97B8B3E6AED} = {368618EE-99A9-4123-86A2-F97B8B3E6AED}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{368618EE-99A9-4123-86A2-F97B8B3E6AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{368618EE-99A9-4123-86A2-F97B8B3E6AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{368618EE-99A9-4123-86A2-F97B8B3E6AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{368618EE-99A9-4123-86A2-F97B8B3E6AED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B44441EB-4A6D-4148-AC85-1C101E8F0457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B44441EB-4A6D-4148-AC85-1C101E8F0457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B44441EB-4A6D-4148-AC85-1C101E8F0457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B44441EB-4A6D-4148-AC85-1C101E8F0457}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

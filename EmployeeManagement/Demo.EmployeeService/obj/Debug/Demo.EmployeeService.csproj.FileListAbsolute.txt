@@ -1,0 +1,10 @@
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\EmployeeManagement\Demo.EmployeeService\obj\Debug\Demo.EmployeeService.csprojResolveAssemblyReference.cache
+C:\Users\Suvisha.KV\documents\visual studio 2013\Projects\EmployeeManagement\Demo.EmployeeService\bin\Demo.EmployeeService.dll.config
+C:\Users\Suvisha.KV\documents\visual studio 2013\Projects\EmployeeManagement\Demo.EmployeeService\bin\Demo.EmployeeService.dll
+C:\Users\Suvisha.KV\documents\visual studio 2013\Projects\EmployeeManagement\Demo.EmployeeService\bin\Demo.EmployeeService.pdb
+C:\Users\Suvisha.KV\documents\visual studio 2013\Projects\EmployeeManagement\Demo.EmployeeService\bin\Demo.Models.dll
+C:\Users\Suvisha.KV\documents\visual studio 2013\Projects\EmployeeManagement\Demo.EmployeeService\bin\Demo.Repository.dll
+C:\Users\Suvisha.KV\documents\visual studio 2013\Projects\EmployeeManagement\Demo.EmployeeService\bin\Demo.Models.pdb
+C:\Users\Suvisha.KV\documents\visual studio 2013\Projects\EmployeeManagement\Demo.EmployeeService\bin\Demo.Repository.pdb
+C:\Users\Suvisha.KV\documents\visual studio 2013\Projects\EmployeeManagement\Demo.EmployeeService\obj\Debug\Demo.EmployeeService.dll
+C:\Users\Suvisha.KV\documents\visual studio 2013\Projects\EmployeeManagement\Demo.EmployeeService\obj\Debug\Demo.EmployeeService.pdb

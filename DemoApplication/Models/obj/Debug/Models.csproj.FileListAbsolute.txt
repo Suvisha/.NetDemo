@@ -1,0 +1,5 @@
+D:\Emtec2018\DemoApplication\Models\bin\Debug\Models.dll
+D:\Emtec2018\DemoApplication\Models\bin\Debug\Models.pdb
+D:\Emtec2018\DemoApplication\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\Emtec2018\DemoApplication\Models\obj\Debug\Models.dll
+D:\Emtec2018\DemoApplication\Models\obj\Debug\Models.pdb

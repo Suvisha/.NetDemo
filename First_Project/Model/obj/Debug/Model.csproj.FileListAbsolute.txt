@@ -1,0 +1,5 @@
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\First_Project\Model\bin\Debug\Model.dll
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\First_Project\Model\bin\Debug\Model.pdb
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\First_Project\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\First_Project\Model\obj\Debug\Model.dll
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\First_Project\Model\obj\Debug\Model.pdb

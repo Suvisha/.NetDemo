@@ -1,0 +1,5 @@
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\EmployeeManagement\Demo.Models\bin\Debug\Demo.Models.dll
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\EmployeeManagement\Demo.Models\bin\Debug\Demo.Models.pdb
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\EmployeeManagement\Demo.Models\obj\Debug\Demo.Models.csprojResolveAssemblyReference.cache
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\EmployeeManagement\Demo.Models\obj\Debug\Demo.Models.dll
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\EmployeeManagement\Demo.Models\obj\Debug\Demo.Models.pdb

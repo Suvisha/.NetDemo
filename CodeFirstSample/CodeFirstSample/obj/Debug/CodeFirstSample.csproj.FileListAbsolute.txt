@@ -1,0 +1,10 @@
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\CodeFirstSample\CodeFirstSample\bin\Debug\CodeFirstSample.exe.config
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\CodeFirstSample\CodeFirstSample\obj\Debug\CodeFirstSample.csprojResolveAssemblyReference.cache
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\CodeFirstSample\CodeFirstSample\bin\Debug\CodeFirstSample.exe
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\CodeFirstSample\CodeFirstSample\bin\Debug\CodeFirstSample.pdb
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\CodeFirstSample\CodeFirstSample\bin\Debug\EntityFramework.dll
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\CodeFirstSample\CodeFirstSample\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\CodeFirstSample\CodeFirstSample\bin\Debug\EntityFramework.xml
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\CodeFirstSample\CodeFirstSample\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\CodeFirstSample\CodeFirstSample\obj\Debug\CodeFirstSample.exe
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\CodeFirstSample\CodeFirstSample\obj\Debug\CodeFirstSample.pdb

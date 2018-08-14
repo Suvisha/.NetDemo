@@ -1,0 +1,8 @@
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\LoggingExample\LoggingExample\bin\Debug\LoggingExample.exe.config
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\LoggingExample\LoggingExample\bin\Debug\LoggingExample.exe
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\LoggingExample\LoggingExample\bin\Debug\LoggingExample.pdb
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\LoggingExample\LoggingExample\bin\Debug\log4net.dll
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\LoggingExample\LoggingExample\bin\Debug\log4net.xml
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\LoggingExample\LoggingExample\obj\Debug\LoggingExample.exe
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\LoggingExample\LoggingExample\obj\Debug\LoggingExample.pdb
+C:\Users\Suvisha.KV\documents\visual studio 2013\Projects\LoggingExample\LoggingExample\obj\Debug\LoggingExample.csprojResolveAssemblyReference.cache

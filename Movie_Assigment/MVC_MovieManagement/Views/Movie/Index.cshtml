@@ -1,0 +1,40 @@
+﻿@model IEnumerable<MVC_MovieManagement.Models.Movie>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.MovieId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MovieName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MovieDetails)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.ActionLink(item.MovieId.ToString(), "Edit", new { id = item.MovieId }) 
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MovieName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MovieDetails)
+        </td>
+        <td>
+            @Html.ActionLink("Details", "Details", new { id=item.MovieId }) 
+            </td>
+        <td>
+            @Html.ActionLink("Remove", "Delete", new { id=item.MovieId })
+        </td>
+    </tr>
+}
+</table>
+
+<p>
+    @Html.ActionLink("Add New Movie", "create", "Movies", new { @class = "btn btn-success" })
+</p>

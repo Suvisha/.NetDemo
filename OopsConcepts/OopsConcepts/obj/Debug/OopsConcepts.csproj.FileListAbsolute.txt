@@ -1,0 +1,6 @@
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\OopsConcepts\OopsConcepts\bin\Debug\OopsConcepts.exe.config
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\OopsConcepts\OopsConcepts\bin\Debug\OopsConcepts.exe
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\OopsConcepts\OopsConcepts\bin\Debug\OopsConcepts.pdb
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\OopsConcepts\OopsConcepts\obj\Debug\OopsConcepts.csprojResolveAssemblyReference.cache
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\OopsConcepts\OopsConcepts\obj\Debug\OopsConcepts.exe
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\OopsConcepts\OopsConcepts\obj\Debug\OopsConcepts.pdb

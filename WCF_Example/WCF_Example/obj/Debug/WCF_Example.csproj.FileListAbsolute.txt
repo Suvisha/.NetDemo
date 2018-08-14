@@ -1,0 +1,6 @@
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\WCF_Example\WCF_Example\bin\WCF_Example.dll.config
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\WCF_Example\WCF_Example\bin\WCF_Example.dll
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\WCF_Example\WCF_Example\bin\WCF_Example.pdb
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\WCF_Example\WCF_Example\obj\Debug\WCF_Example.csprojResolveAssemblyReference.cache
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\WCF_Example\WCF_Example\obj\Debug\WCF_Example.dll
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\WCF_Example\WCF_Example\obj\Debug\WCF_Example.pdb

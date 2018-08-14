@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockInterface", "MockInterface\MockInterface.csproj", "{9A9D7536-0593-4033-BC66-E122E93F180C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockUnit", "MockUnit\MockUnit.csproj", "{1903771B-820F-4BA2-8ACF-B2FE8EE52C24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A9D7536-0593-4033-BC66-E122E93F180C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A9D7536-0593-4033-BC66-E122E93F180C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A9D7536-0593-4033-BC66-E122E93F180C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A9D7536-0593-4033-BC66-E122E93F180C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1903771B-820F-4BA2-8ACF-B2FE8EE52C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1903771B-820F-4BA2-8ACF-B2FE8EE52C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1903771B-820F-4BA2-8ACF-B2FE8EE52C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1903771B-820F-4BA2-8ACF-B2FE8EE52C24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

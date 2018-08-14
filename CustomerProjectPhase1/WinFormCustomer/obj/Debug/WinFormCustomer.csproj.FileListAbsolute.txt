@@ -1,0 +1,11 @@
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\CustomerProjectPhase1\WinFormCustomer\bin\Debug\WinFormCustomer.exe.config
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\CustomerProjectPhase1\WinFormCustomer\bin\Debug\WinFormCustomer.exe
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\CustomerProjectPhase1\WinFormCustomer\bin\Debug\WinFormCustomer.pdb
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\CustomerProjectPhase1\WinFormCustomer\bin\Debug\CustomerProjectPhase1.dll
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\CustomerProjectPhase1\WinFormCustomer\bin\Debug\CustomerProjectPhase1.pdb
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\CustomerProjectPhase1\WinFormCustomer\obj\Debug\WinFormCustomer.csprojResolveAssemblyReference.cache
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\CustomerProjectPhase1\WinFormCustomer\obj\Debug\WinFormCustomer.FormCustomer.resources
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\CustomerProjectPhase1\WinFormCustomer\obj\Debug\WinFormCustomer.Properties.Resources.resources
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\CustomerProjectPhase1\WinFormCustomer\obj\Debug\WinFormCustomer.csproj.GenerateResource.Cache
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\CustomerProjectPhase1\WinFormCustomer\obj\Debug\WinFormCustomer.exe
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\CustomerProjectPhase1\WinFormCustomer\obj\Debug\WinFormCustomer.pdb

@@ -1,0 +1,9 @@
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\WCF_Example\MathServiceTestApp\bin\Debug\MathServiceTestApp.exe.config
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\WCF_Example\MathServiceTestApp\bin\Debug\MathServiceTestApp.exe
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\WCF_Example\MathServiceTestApp\bin\Debug\MathServiceTestApp.pdb
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\WCF_Example\MathServiceTestApp\obj\Debug\MathServiceTestApp.csprojResolveAssemblyReference.cache
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\WCF_Example\MathServiceTestApp\obj\Debug\MathServiceTestApp.Form1.resources
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\WCF_Example\MathServiceTestApp\obj\Debug\MathServiceTestApp.Properties.Resources.resources
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\WCF_Example\MathServiceTestApp\obj\Debug\MathServiceTestApp.csproj.GenerateResource.Cache
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\WCF_Example\MathServiceTestApp\obj\Debug\MathServiceTestApp.exe
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\WCF_Example\MathServiceTestApp\obj\Debug\MathServiceTestApp.pdb

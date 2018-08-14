@@ -1,0 +1,5 @@
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\CustomerProjectPhase1\CustomerProjectPhase1\bin\Debug\CustomerProjectPhase1.dll
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\CustomerProjectPhase1\CustomerProjectPhase1\bin\Debug\CustomerProjectPhase1.pdb
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\CustomerProjectPhase1\CustomerProjectPhase1\obj\Debug\MiddleLayer.csprojResolveAssemblyReference.cache
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\CustomerProjectPhase1\CustomerProjectPhase1\obj\Debug\CustomerProjectPhase1.dll
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\CustomerProjectPhase1\CustomerProjectPhase1\obj\Debug\CustomerProjectPhase1.pdb

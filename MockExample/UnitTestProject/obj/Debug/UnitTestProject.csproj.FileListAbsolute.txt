@@ -1,0 +1,16 @@
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\MockExample\UnitTestProject\bin\Debug\UnitTestProject.dll
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\MockExample\UnitTestProject\bin\Debug\UnitTestProject.pdb
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\MockExample\UnitTestProject\bin\Debug\Castle.Core.dll
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\MockExample\UnitTestProject\bin\Debug\MockExample.dll
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\MockExample\UnitTestProject\bin\Debug\Moq.dll
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\MockExample\UnitTestProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\MockExample\UnitTestProject\bin\Debug\System.ValueTuple.dll
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\MockExample\UnitTestProject\bin\Debug\MockExample.pdb
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\MockExample\UnitTestProject\bin\Debug\Castle.Core.xml
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\MockExample\UnitTestProject\bin\Debug\Moq.pdb
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\MockExample\UnitTestProject\bin\Debug\Moq.xml
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\MockExample\UnitTestProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\MockExample\UnitTestProject\bin\Debug\System.ValueTuple.xml
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\MockExample\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\MockExample\UnitTestProject\obj\Debug\UnitTestProject.dll
+c:\users\suvisha.kv\documents\visual studio 2013\Projects\MockExample\UnitTestProject\obj\Debug\UnitTestProject.pdb
